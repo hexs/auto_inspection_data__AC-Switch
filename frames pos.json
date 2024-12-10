@@ -1,0 +1,943 @@
+{
+    "frames": {
+        "r1_1": {
+            "xywh": [
+                0.128578125,
+                0.5344375,
+                0.03453124999999999,
+                0.03470833333333333
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "pink"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "black",
+                    "green"
+                ]
+            }
+        },
+        "r2_1": {
+            "xywh": [
+                0.332265625,
+                0.5318333333333333,
+                0.03453124999999999,
+                0.03466666666666666
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "black"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "green"
+                ]
+            }
+        },
+        "r2_2": {
+            "xywh": [
+                0.5433749999999999,
+                0.5302708333333334,
+                0.03531249999999999,
+                0.034624999999999996
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "black"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "green"
+                ]
+            }
+        },
+        "r2_3": {
+            "xywh": [
+                0.7541875,
+                0.5297499999999999,
+                0.034624999999999996,
+                0.0355
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "black"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "green"
+                ]
+            }
+        },
+        "r2_4": {
+            "xywh": [
+                0.381921875,
+                0.42970833333333336,
+                0.03471875,
+                0.0355
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "black"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "green"
+                ]
+            }
+        },
+        "r3_1": {
+            "xywh": [
+                0.5879375,
+                0.38989583333333333,
+                0.034624999999999996,
+                0.03470833333333333
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "green"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "black"
+                ]
+            }
+        },
+        "r3_2": {
+            "xywh": [
+                0.7935,
+                0.42835416666666665,
+                0.034624999999999996,
+                0.03470833333333333
+            ],
+            "model_used": "r",
+            "res_show": {
+                "OK": [
+                    "green"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "pink",
+                    "black"
+                ]
+            }
+        },
+        "pcb": {
+            "xywh": [
+                0.499609375,
+                0.4817708333333333,
+                0.98046875,
+                0.7552083333333334
+            ],
+            "model_used": "pcb",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p1_1": {
+            "xywh": [
+                0.06796875,
+                0.31927083333333334,
+                0.0359375,
+                0.03229166666666667
+            ],
+            "model_used": "p1",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p1_2": {
+            "xywh": [
+                0.066015625,
+                0.35572916666666665,
+                0.02578125,
+                0.046875
+            ],
+            "model_used": "p1",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p1_3": {
+            "xywh": [
+                0.066015625,
+                0.5427083333333333,
+                0.03828125,
+                0.03125
+            ],
+            "model_used": "p1",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p1_4": {
+            "xywh": [
+                0.0921875,
+                0.5817708333333333,
+                0.03125,
+                0.04895833333333333
+            ],
+            "model_used": "p1",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p1_5": {
+            "xywh": [
+                0.065625,
+                0.6223958333333334,
+                0.0375,
+                0.030208333333333334
+            ],
+            "model_used": "p1",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p2": {
+            "xywh": [
+                0.951953125,
+                0.2671875,
+                0.03671875,
+                0.10520833333333333
+            ],
+            "model_used": "p2",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p3": {
+            "xywh": [
+                0.9608125,
+                0.41775,
+                0.0355,
+                0.06241666666666667
+            ],
+            "model_used": "p3",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p4": {
+            "xywh": [
+                0.96215625,
+                0.5609791666666667,
+                0.035062499999999996,
+                0.052958333333333336
+            ],
+            "model_used": "p4",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_1": {
+            "xywh": [
+                0.08515625,
+                0.2515625,
+                0.034499999999999996,
+                0.036625
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_2": {
+            "xywh": [
+                0.13615625,
+                0.24995833333333334,
+                0.034375,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_3": {
+            "xywh": [
+                0.184375,
+                0.24791666666666667,
+                0.034375,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_4": {
+            "xywh": [
+                0.2375,
+                0.246875,
+                0.034375,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_5": {
+            "xywh": [
+                0.135546875,
+                0.7145416666666666,
+                0.03359375,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_6": {
+            "xywh": [
+                0.18884375,
+                0.7125416666666666,
+                0.03425,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_7": {
+            "xywh": [
+                0.236328125,
+                0.7140208333333333,
+                0.03359375,
+                0.03654166666666667
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p5_8": {
+            "xywh": [
+                0.29140625,
+                0.7135416666666666,
+                0.034375,
+                0.0375
+            ],
+            "model_used": "p5",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p6_1": {
+            "xywh": [
+                0.701390625,
+                0.18385416666666668,
+                0.12609375,
+                0.06229166666666666
+            ],
+            "model_used": "p6",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p6_2": {
+            "xywh": [
+                0.67209375,
+                0.7724791666666667,
+                0.126,
+                0.062458333333333324
+            ],
+            "model_used": "p6",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p7_1": {
+            "xywh": [
+                0.365671875,
+                0.18485416666666668,
+                0.10321875,
+                0.06212500000000001
+            ],
+            "model_used": "p7",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p7_2": {
+            "xywh": [
+                0.41740625,
+                0.7745208333333333,
+                0.1025625,
+                0.06220833333333334
+            ],
+            "model_used": "p7",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p8_1": {
+            "xywh": [
+                0.1625,
+                0.19110416666666666,
+                0.08,
+                0.062041666666666676
+            ],
+            "model_used": "p8",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p8_2": {
+            "xywh": [
+                0.21059375,
+                0.7735208333333333,
+                0.08,
+                0.06220833333333334
+            ],
+            "model_used": "p8",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p8_3": {
+            "xywh": [
+                0.850609375,
+                0.7693125,
+                0.07990625,
+                0.06220833333333334
+            ],
+            "model_used": "p8",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_1": {
+            "xywh": [
+                0.212328125,
+                0.49214583333333334,
+                0.04734375,
+                0.02704166666666667
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_2": {
+            "xywh": [
+                0.315625,
+                0.489625,
+                0.04656249999999999,
+                0.027000000000000003
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_3": {
+            "xywh": [
+                0.382859375,
+                0.4895833333333333,
+                0.04734375,
+                0.027000000000000003
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_4": {
+            "xywh": [
+                0.447875,
+                0.4891041666666667,
+                0.04712499999999999,
+                0.027125
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_5": {
+            "xywh": [
+                0.624828125,
+                0.4880625,
+                0.04734375,
+                0.02704166666666667
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_6": {
+            "xywh": [
+                0.71740625,
+                0.48802083333333335,
+                0.04668749999999999,
+                0.02704166666666667
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        },
+        "p9_7": {
+            "xywh": [
+                0.850609375,
+                0.48754166666666665,
+                0.04690625,
+                0.027083333333333334
+            ],
+            "model_used": "p9",
+            "res_show": {
+                "OK": [
+                    "ok"
+                ],
+                "No Part": [
+                    "nopart"
+                ],
+                "Wrong Part": [
+                    "wrongpart"
+                ],
+                "Wrong Polarity": [
+                    "wrongpolarity"
+                ]
+            }
+        }
+    },
+    "models": {
+        "r": {
+            "class_names": [
+                "nopart",
+                "pink",
+                "black",
+                "green"
+            ]
+        },
+        "pcb": {
+            "class_names": [
+                "have",
+                "don't have"
+            ]
+        },
+        "p1": {
+            "class_names": [
+                "ok",
+                "nopart"
+            ]
+        },
+        "p2": {
+            "class_names": [
+                "ok",
+                "nopart"
+            ]
+        },
+        "p3": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpart",
+                "wrongpolarity"
+            ]
+        },
+        "p4": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpolarity"
+            ]
+        },
+        "p5": {
+            "class_names": [
+                "ok",
+                "nopart"
+            ]
+        },
+        "p6": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpart",
+                "wrongpolarity"
+            ]
+        },
+        "p7": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpart",
+                "wrongpolarity"
+            ]
+        },
+        "p8": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpolarity"
+            ]
+        },
+        "p9": {
+            "class_names": [
+                "ok",
+                "nopart",
+                "wrongpolarity"
+            ]
+        }
+    }
+}
