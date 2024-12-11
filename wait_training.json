@@ -1,12 +1,12 @@
 {
     "p3": false,
     "p4": false,
-    "r": false,
+    "r": true,
     "p8": false,
-    "p7": false,
+    "p7": true,
     "p5": false,
-    "p6": false,
-    "p2": false,
+    "p6": true,
+    "p2": true,
     "p9": false,
     "p1": false,
     "pcb": false
