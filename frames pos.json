@@ -872,8 +872,9 @@
         },
         "pcb": {
             "class_names": [
-                "have",
-                "don't have"
+                "hand",
+                "pcb",
+                "none"
             ]
         },
         "p1": {
